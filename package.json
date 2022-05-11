@@ -37,7 +37,7 @@
     "@ledgerhq/devices": "^4.48.0",
     "@ledgerhq/errors": "^4.48.0",
     "@ledgerhq/hw-app-btc": "^4.48.0",
-    "@ledgerhq/hw-app-eth": "^4.48.0",
+    "@ledgerhq/hw-app-eth": "^4.78.0",
     "@ledgerhq/hw-app-xrp": "^4.48.0",
     "@ledgerhq/hw-transport": "^4.47.0",
     "@ledgerhq/hw-transport-node-hid": "^4.48.0",
